@@ -27,3 +27,6 @@ Puntos Extra:
 
 Almacenamiento de la lista de tareas en localStorage para persistencia entre sesiones.
 Estilo visual mejorado utilizando CSS.
+
+![image](https://github.com/user-attachments/assets/f4942da5-97dc-4450-944e-d766d4f6a5cd)
+
